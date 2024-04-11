@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, Col, Row, Container } from 'react-bootstrap';
-import { faBullhorn, faMoneyBillAlt, faAd, faMousePointer, faEye, faChartLine } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faBullhorn, faMoneyBillAlt, faAd, faMousePointer, faEye, faChartLine } from "@fortawesome/free-solid-svg-icons";
 
 const KPIPanel = ({ totalRevenue, totalCampaigns, totalAdTypes, totalClicks, conversionRate, totalImpressions }) => {
   return (

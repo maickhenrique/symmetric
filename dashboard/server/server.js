@@ -29,7 +29,8 @@ app.post('/cadastro', async (req, res) => {
         return res.status(500).send('Internal Server Error');
       }
   
-      res.json({ message: 'Registration successful!' });
+      res.setHeader('Access-Control-Allow-Origin', '*'); // Permitir solicitações de qualquer origem
+      res.json({ message: 'Cadastro realizado com sucesso!' });
     });
   });
 

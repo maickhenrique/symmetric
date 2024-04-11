@@ -29,7 +29,7 @@ app.post('/cadastro', async (req, res) => {
         return res.status(500).send('Internal Server Error');
       }
   
-      res.setHeader('Access-Control-Allow-Origin', 'https://symmetric-n67ol025l-maicks-projects-814bc604.vercel.app'); // Permitir solicitações de qualquer origem
+      res.setHeader('Access-Control-Allow-Origin', 'https://symmetric-green.vercel.app/cadastro'); // Permitir solicitações de qualquer origem
       res.json({ message: 'Cadastro realizado com sucesso!' });
     });
   });

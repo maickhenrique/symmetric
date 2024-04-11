@@ -13,7 +13,7 @@ const LoginForm = () => {
     event.preventDefault(); // Evita a submissão padrão do formulário
 
     try {
-        const response = await axios.post('http://localhost:3001/login', {
+        const response = await axios.post('https://symmetric-hu2ptp1h4-maicks-projects-814bc604.vercel.app/login', {
             email,
             senha,
         });

@@ -13,7 +13,7 @@ const CadastroForm = () => {
     event.preventDefault();
 
     try {
-      const response = await axios.post('http://localhost:3001/cadastro', {
+      const response = await axios.post('https://symmetric-hu2ptp1h4-maicks-projects-814bc604.vercel.app/cadastro', {
         nome,
         email,
         senha, // Assuming you have a registration route in your Node.js server

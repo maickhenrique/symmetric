@@ -69,8 +69,7 @@ app.post('/cadastro', async (req, res) => {
   });
   
 
-const port = 3001; // Choose a port (avoid using common ports like 80 or 443)
-
-app.listen(port, () => {
-    console.log(`Server listening on port ${port}`);
-});
+  const port = process.env.PORT || 3001; // Use a porta definida nas variáveis de ambiente ou a porta 3001 como padrão
+  app.listen(port, () => {
+      console.log(`Server listening on port ${port}`);
+  });

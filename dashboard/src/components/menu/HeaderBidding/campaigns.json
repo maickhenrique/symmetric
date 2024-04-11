@@ -1,0 +1,171 @@
+{
+    "Janeiro": [
+        {
+            "campaign": "Campanha Janeiro: Promoção Verão",
+            "adType": "Display",
+            "revenue": 1000
+        },
+        {
+            "campaign": "Campanha Janeiro: Promoção Verão",
+            "adType": "Social Media",
+            "revenue": 500
+        },
+        {
+            "campaign": "Campanha Janeiro: Rebranding",
+            "adType": "Video",
+            "revenue": 2000
+        }
+    ],
+    "Fevereiro": [
+        {
+            "campaign": "Campanha Carnaval: Diversão garantida",
+            "adType": "Display",
+            "revenue": 1500
+        },
+        {
+            "campaign": "Campanha Carnaval: Diversão garantida",
+            "adType": "Influencer Marketing",
+            "revenue": 1000
+        },
+        {
+            "campaign": "Campanha Carnaval: Promoção de fantasias",
+            "adType": "Search",
+            "revenue": 3000
+        }
+    ],
+    "Março": [
+        {
+            "campaign": "Campanha Dia da Mulher: Celebrando a força feminina",
+            "adType": "Display",
+            "revenue": 2000
+        },
+        {
+            "campaign": "Campanha Dia da Mulher: Celebrando a força feminina",
+            "adType": "Email Marketing",
+            "revenue": 500
+        },
+        {
+            "campaign": "Campanha Dia da Mulher: Descontos em produtos para mulheres",
+            "adType": "Social Media",
+            "revenue": 1500
+        }
+    ],
+    "Abril": [
+        {
+            "campaign": "Campanha Páscoa: Chocolate para todos",
+            "adType": "Display",
+            "revenue": 1500
+        },
+        {
+            "campaign": "Campanha Páscoa: Promoções em ovos de chocolate",
+            "adType": "Search",
+            "revenue": 2000
+        }
+    ],
+    "Maio": [
+        {
+            "campaign": "Campanha Dia das Mães: Presenteie quem você ama",
+            "adType": "Display",
+            "revenue": 2500
+        },
+        {
+            "campaign": "Campanha Dia das Mães: Descontos em produtos para mães",
+            "adType": "Email Marketing",
+            "revenue": 1000
+        }
+    ],
+    "Junho": [
+        {
+            "campaign": "Campanha Dia dos Namorados: Amor em dobro",
+            "adType": "Display",
+            "revenue": 3000
+        },
+        {
+            "campaign": "Campanha Dia dos Namorados: Promoções em presentes para casais",
+            "adType": "Social Media",
+            "revenue": 2000
+        }
+    ],
+    "Julho": [
+        {
+            "campaign": "Campanha Férias de Julho: Diversão para toda a família",
+            "adType": "Display",
+            "revenue": 2000
+        },
+        {
+            "campaign": "Campanha Férias de Julho: Pacotes de viagem com desconto",
+            "adType": "Search",
+            "revenue": 3500
+        }
+    ],
+    "Agosto": [
+        {
+            "campaign": "Campanha Dia dos Pais: Homenagem aos heróis",
+            "adType": "Display",
+            "revenue": 2500
+        },
+        {
+            "campaign": "Campanha Dia dos Pais: Descontos em presentes para pais",
+            "adType": "Email Marketing",
+            "revenue": 1500
+        }
+    ],
+    "Setembro": [
+        {
+            "campaign": "Campanha Primavera: Floresça com alegria",
+            "adType": "Display",
+            "revenue": 1500
+        },
+        {
+            "campaign": "Campanha Primavera: Promoções em produtos para o lar",
+            "adType": "Social Media",
+            "revenue": 1000
+        }
+    ],
+    "Outubro": [
+        {
+            "campaign": "Campanha Outubro: Promoções especiais",
+            "adType": "Display",
+            "revenue": 2000
+        },
+        {
+            "campaign": "Campanha Outubro: Ofertas imperdíveis",
+            "adType": "Social Media",
+            "revenue": 1500
+        }
+    ],
+    "Novembro": [
+        {
+            "campaign": "Campanha Novembro: Descontos incríveis",
+            "adType": "Display",
+            "revenue": 1000
+        },
+        {
+            "campaign": "Campanha Novembro: Novidades exclusivas",
+            "adType": "Social Media",
+            "revenue": 500
+        },
+        {
+            "campaign": "Campanha Novembro: Promoções de fim de ano",
+            "adType": "Video",
+            "revenue": 2000
+        }
+    ],
+    "Dezembro": [
+        {
+            "campaign": "Campanha Dezembro: Celebração do Natal",
+            "adType": "Display",
+            "revenue": 2000
+        },
+        {
+            "campaign": "Campanha Dezembro: Ofertas de Natal",
+            "adType": "Email Marketing",
+            "revenue": 500
+        },
+        {
+            "campaign": "Campanha Dezembro: Promoções de Ano Novo",
+            "adType": "Social Media",
+            "revenue": 1500
+        }
+    ]
+}
